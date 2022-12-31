@@ -1,0 +1,22 @@
+.details1{
+    float: left; 
+    
+    width:70%;
+    height:550px;
+}
+.info1{
+    margin:75px 0px 0px 270px;
+    font-size: 45px;
+    color:rgb(255, 142, 5);
+    font-family: 'Times New Roman', Times, serif;
+}
+.name{
+    margin:15px 0px 0px 410px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.win{
+    margin:20px;
+    padding:20px;
+    color:rgb(46, 190, 65);
+    font-size: 22px;
+}
